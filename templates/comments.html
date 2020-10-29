@@ -41,7 +41,7 @@
 
     </thead>
 
-      <td>Total Subscribers</td><td><canvas id="YourChartNameWithoutSpacesHere" width="400" height="150"></canvas></td>
+      <td>Commentator</td><td><canvas id="commentator" width="400" height="150"></canvas></td>
 
      </td>
 
@@ -58,18 +58,18 @@
                     {
                         fillColor : "#48A497",
                         strokeColor : "#48A4D1",
-                        data : {{ YourColumnNameHere }}
+                        data : {{ commentator }}
                     }
                 ]
             }
 
             // get bar chart canvas
 
-            var YourChartNameWithoutSpacesHere = document.getElementById("YourChartNameWithoutSpacesHere").getContext("2d");
+            var commentator = document.getElementById("commentator").getContext("2d");
 
             // draw bar chart
 
-            new Chart(YourChartNameWithoutSpacesHere).Bar(barData);
+            new Chart(commentator).Bar(barData);
 
 
        </script>

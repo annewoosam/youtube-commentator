@@ -13,32 +13,38 @@ import model
 import server
 
 
-os.system('dropdb YourFolderUnderscoredAsDatabaseNameHere')
+os.system('dropdb youtube_comments')
 
-os.system('createdb YourFolderUnderscoredAsDatabaseNameHere')
+os.system('createdb youtube_comments')
 
 model.connect_to_db(server.app)
 
 model.db.create_all()
 
 
-# Create YourModelNameLowerCasedHere table's initial data.
+# Create comment table's initial data.
 
-with open('data/YourModelNameLowerCasedSingularHere.json') as f:
+with open('data/comment.json') as f:
 
-    YourModelNameLowerCasedSingularHere_data = json.loads(f.read())
+    comment_data = json.loads(f.read())
 
-YourModelNameLowerCasedSingularHere_in_db = []
+comment_in_db = []
 
-for YourModelNameLowerCasedSingularHere in YourModelNameLowerCasedSingularHere_data:
+for comment in comment_data:
     columnNamesSeparatedbyCommasUntilLastOne= (
-                                   YourModelNameLowerCasedSingularHere['YourFirstColumnNameHere'],
-                                   YourModelNameLowerCasedSingularHere['YourNextColumnNameHereTillLast'],
-                                   YourModelNameLowerCasedSingularHere['YourLastColumnNameHere'])
+                                   comment['channel_name'],
+                                   comment['video_number'],
+                                   comment['commentator'],
+                                   comment['commentary'],
+                                   comment['date'],                                                                                                       
+                                   comment['replied_to'])
 
-    db_YourModelNameLowerCasedSingularHere = crud.create_YourModelNameLowerCasedSingularHere(
-                                 YourFirstColumnNameHere,
-                                 YourNextColumnNameHereTillLast,
-                                 YourLastColumnNameHere)
+    db_comment = crud.create_comment(
+                                 channel_name,
+                                 video-number,
+                                 commentator,
+                                 commentary,
+                                 date,                                                                                                                              
+                                 replied_to)
 
-    YourModelNameLowerCasedSingularHere_in_db.append(db_YourModelNameLowerCasedSingularHere)
+    comment_in_db.append(db_comment)

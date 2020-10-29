@@ -4,23 +4,31 @@ import datetime
 
 db = SQLAlchemy()
 
-# test_month = Creator(channel_name='WinningCheckers', email_date='2020-01-31',number_subscribers = '1', month_end_at='2019-12-31', subscribers='0', views='1', minutes_watched='2', likes='3', comments='4', posts='5', shares='6')
+# test = Comment(channel_name='WinningCheckers', email_date='2020-01-31',number_subscribers = '1', month_end_at='2019-12-31', subscribers='0', views='1', minutes_watched='2', likes='3', comments='4', posts='5', shares='6')
 
-class YourClassNameHereInTitleCaseSingular(db.Model):
-    """A class for creator monthly."""
+class Comment(db.Model):
+    """A class for Comment."""
     
-    __tablename__ = 'YourTableNameHereLowerCasePlural'
+    __tablename__ = 'comments'
 
-    YourPrimaryIDColumnNameHereLowerCase_id = db.Column(db.Integer, autoincrement=True, primary_key=True)
+    channel_id = db.Column(db.Integer, autoincrement=True, primary_key=True)
 
-    YourColumnNameHereLowerCase = db.Column(YourDBTypeHereAsdb.typeSuchAsStringIntegerDate)
+    channel_name = db.Column(db.String)
 
-# keep repeating till all column names finished
+    video_number = db.Column(db.Integer)
+
+    commentator = db.Column(db.String)
+
+    commentary = db.Column(db.String)
+
+    date = db.Column(db.Date)
+    
+    replied_to = db.Column(db.Boolean)
 
     def __repr__(self):
-        return f'<YourClassNameHereInTitleCaseSingular YourPrimaryKeyVariableHere={self.YourPrimaryKeyVariableHete} SecondColumnVariableNameHere={self.SecondColumnVariableNameHere}>'
+        return f'<Comment channel_id={self.channel_id} channel_name={self.channel_name}>'
 
-def connect_to_db(flask_app, db_uri='postgresql:///YourDatabaseNamehere', echo=True):
+def connect_to_db(flask_app, db_uri='postgresql:///youtube_comments', echo=True):
    
     flask_app.config['SQLALCHEMY_DATABASE_URI'] = db_uri
    

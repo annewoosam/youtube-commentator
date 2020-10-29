@@ -1,12 +1,522 @@
 [
 	{
-		"key based on model py skipping the primary key":"value that is a string or a date",
-		"key":value that is a number,
-		"created_on":"2020-08-07"
+		"comment_id":1,
+		"channel_name":"WinningCheckers",
+		"commentator":"ifeanya",
+		"public_subscriber":"No",
+		"comment":"I like how simple you make out your game to be. Hope to play against you again",
+		"reply_replies":"I liked playing against you as well. You made me have to think deeply so I didn't lose! It certainly was a brain work out! I've posted our game with graphics to explain what I was thinking at the time. Please check it out, like and subscribe for daily live games ./I try to make it simple from beginners to more advanced players. Hope to play against you as well!",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 3"
 	},
-    {
-        "key based on model py skipping the primary key":"value that is a string or a date",
-		"key":value that is a number,
-		"key":"value"
+	{
+		"comment_id":2,
+		"channel_name":"WinningCheckers",
+		"commentator":"Jasimah Mohamed",
+		"public_subscriber":"No",
+		"comment":"Can you share what you are eating?",
+		"reply_replies":"I can't remember. I hadn't thought of that.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 1"
+	},
+	{
+		"comment_id":3,
+		"channel_name":"WinningCheckers",
+		"commentator":"Jerome Daley",
+		"public_subscriber":"No",
+		"comment":"I can't play",
+		"reply_replies":"1 Heart/Lol. You can learn! just watch my videos & apply the 13 strategies in the video How to play checkers & win 90% of the time.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 13"
+	},
+	{
+		"comment_id":4,
+		"channel_name":"WinningCheckers",
+		"commentator":"saad lechhb",
+		"public_subscriber":"No",
+		"comment":"Great video, thank you",
+		"reply_replies":"Glad you liked it!/Thank you. Please subscribe for more videos.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 16"
+	},
+	{
+		"comment_id":5,
+		"channel_name":"WinningCheckers",
+		"commentator":"ifeanya",
+		"public_subscriber":"No",
+		"comment":"His opening game was good",
+		"reply_replies":"1 like/Yes it was, but he exposed his single corner, which I took advantage of and then eventually he moved away all his checkers from his back line. To make matters worse for him he lost a checker from a double shot, which he could not avoid.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 18"
+	},
+	{
+		"comment_id":6,
+		"channel_name":"WinningCheckers",
+		"commentator":"Ajay Cosmo",
+		"public_subscriber":"No",
+		"comment":"Hey man.....the Tanzanian/South African here......you have helped me tons especially on the 4 centre spots. Much appreciated",
+		"reply_replies":"You are most welcome. That's the purpose of our channel, to improve your game. Checkers is so easy to learn, but difficult to master. What is your screen name so that I can say hi, when we play again. Please tell your countrymen about our channel, it will help them too.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 30"
+	},
+	{
+		"comment_id":7,
+		"channel_name":"WinningCheckers",
+		"commentator":"Ajay Cosmo",
+		"public_subscriber":"No",
+		"comment":"@WinningCheckers I'm 'Big Sparko' .....I see two of my countrymen in the rankings!....#3 & 25",
+		"reply_replies":"Hello Big Sparko, hope to play you again sometime. Yes, that's true. Played both of them. They are both very good. But Kikwesha hacks his points. He hasn't been active for about 2 or 3 months & is  still at 11,822 points.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 30"
+	},
+	{
+		"comment_id":8,
+		"channel_name":"WinningCheckers",
+		"commentator":"Bilal Bhai",
+		"public_subscriber":"No",
+		"comment":"Good",
+		"reply_replies":"Thanks",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 32"
+	},
+	{
+		"comment_id":9,
+		"channel_name":"WinningCheckers",
+		"commentator":"Bilal Bhai",
+		"public_subscriber":"No",
+		"comment":"Good game  but blur",
+		"reply_replies":"I watched the video again, but did not notice any blur on the actual footage. Did you mean the explanation on how I won perhaps?",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 32"
+	},
+	{
+		"comment_id":10,
+		"channel_name":"WinningCheckers",
+		"commentator":"Bilal Bhai",
+		"public_subscriber":"No",
+		"comment":"In rankings kadazan Dusun no in ranking but how come?",
+		"reply_replies":"???? Kadazan Dusan has 29,000 points and is in 2nd place in the top 25. The top 9 have all hacked their points.| Matthew Matthew: is it true?they hack points..its cheating right?|Yes, the top 9 are hacking their points. Of course it's cheating, but the program developer doesn't want to do anything about it.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 35"
+	},
+	{
+		"comment_id":11,
+		"channel_name":"WinningCheckers",
+		"commentator":"Matthew Matthew",
+		"public_subscriber":"Yes",
+		"comment":"sir can you do some checkers opening variotions please(videos).",
+		"reply_replies":"Hello Mathew Mathew, the idea of our channel is to teach beginners, intermediate & advanced players, how to win up to 90% of the time using the 13 strategies, which are explained in our 1st video How to play checkers & win 90% of the time followed by daily live games with real time commentary on how I win, lose or draw using the 13 strategies. By following & studying our videos you will learn the basic strategies to make you a better player, then you can concentrate on learning other openings. If you want to learn the various opening then I suggest you go to a channel called azcheckers or checkercycle. They discuss the various opening & responses in theory, but no actual live games or real live situations.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 35"
+	},
+	{
+		"comment_id":12,
+		"channel_name":"WinningCheckers",
+		"commentator":"Roger Pineda",
+		"public_subscriber":"No",
+		"comment":"i want to play again",
+		"reply_replies":"Anytime!",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 34"
+	},
+	{
+		"comment_id":13,
+		"channel_name":"WinningCheckers",
+		"commentator":"Sebastian Nob17",
+		"public_subscriber":"Yes",
+		"comment":"His opening game was good",
+		"reply_replies":"Hi, how are you",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 38"
+	},
+	{
+		"comment_id":14,
+		"channel_name":"WinningCheckers",
+		"commentator":"Sebastian Nob17",
+		"public_subscriber":"Yes",
+		"comment":"Deberias ponerle subtitulos.",
+		"reply_replies":"You should be able to get subtitles of the game in your language.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 38"
+	},
+	{
+		"comment_id":15,
+		"channel_name":"WinningCheckers",
+		"commentator":"Sebastian Nob17",
+		"public_subscriber":"Yes",
+		"comment":"Sub in spanish pls",
+		"reply_replies":"Click on translation while viewing.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 38"
+	},
+	{
+		"comment_id":16,
+		"channel_name":"WinningCheckers",
+		"commentator":"Habib Mughal",
+		"public_subscriber":"No",
+		"comment":"great game ever i enjoy this game and i subscribed",
+		"reply_replies":"nice |Great! Thank you for subscribing.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers Game 39"
+	},
+	{
+		"comment_id":17,
+		"channel_name":"WinningCheckers",
+		"commentator":"Habib Mughal",
+		"public_subscriber":"No",
+		"comment":"nice",
+		"reply_replies":"Thank you! Please recommend our channel to any checkers clubs in your country.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers Game 39"
+	},
+	{
+		"comment_id":18,
+		"channel_name":"WinningCheckers",
+		"commentator":"Bilal Bhai",
+		"public_subscriber":"No",
+		"comment":"0323 5535939 my whatsapp no for more games",
+		"reply_replies":"I don't know how to use whatsapp. Best to play using the checkers app we are using. Just invite me, when you are ready.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers Game 39"
+	},
+	{
+		"comment_id":19,
+		"channel_name":"WinningCheckers",
+		"commentator":"TTT TTT",
+		"public_subscriber":"No",
+		"comment":"I wish your page success I will support you with all my heart I am ezzine Live in Morocco Our meeting was at Checkers onlaine Under the name Ezzine together she added 2 spaces in front of her ezzine",
+		"reply_replies":"Thank you. Please tell your friends about our channel & get them to subscribe as well. Let me know if you are winning more games!",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Channel"
+	},
+	{
+		"comment_id":20,
+		"channel_name":"WinningCheckers",
+		"commentator":"Kris Wellman",
+		"public_subscriber":"No",
+		"comment":"Ive played you twice on this app. We played to a draw both times. I jist started playing on 'flyordie' and the level of play seems much higher there. Just thought you might wanna check it out.",
+		"reply_replies":"Fantastic! A match between 2 good players normally ends in a draw. Please recommend our channel to your fellow checkers enthusiasts. Will check out flyordie.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 48"
+	},
+	{
+		"comment_id":21,
+		"channel_name":"WinningCheckers",
+		"commentator":"Marcus Banks",
+		"public_subscriber":"No",
+		"comment":"It was great playing you today. I hope that we can play again soon. 'Imakebeats'  I put you on the game friend list so that I can request games without randomly hoping for a match in the future. Keep up the great work with the channel.",
+		"reply_replies":"I hope so too!",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 49"
+	},
+	{
+		"comment_id":22,
+		"channel_name":"WinningCheckers",
+		"commentator":"ifeanya",
+		"public_subscriber":"No",
+		"comment":"Been a while.",
+		"reply_replies":"I was on a hiatus!",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 50"
+	},
+	{
+		"comment_id":23,
+		"channel_name":"WinningCheckers",
+		"commentator":"Farok Aj",
+		"public_subscriber":"No",
+		"comment":"I like your live games, you should try Spanish checkers, you'll have much more views, try it in 'checkersland online', Again nice job bro.",
+		"reply_replies":"Thank you. Unfortunately, I don,t speak spanish.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 45"
+	},
+	{
+		"comment_id":24,
+		"channel_name":"WinningCheckers",
+		"commentator":"Sebastian Nob17",
+		"public_subscriber":"Yes",
+		"comment":"Oh, great game bro.",
+		"reply_replies":"Thank you! Please recommend our channel to fellow checkers enthusiasts.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 53"
+	},
+	{
+		"comment_id":25,
+		"channel_name":"WinningCheckers",
+		"commentator":"Remzzy boi",
+		"public_subscriber":"No",
+		"comment":"Yo Im abcdefghiiiii, you beat me, and I subbed, as promised. Keep it up!!",
+		"reply_replies":"Thank you! Please recommend our channel to fellow checkers enthusiasts.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 53"
+	},
+	{
+		"comment_id":26,
+		"channel_name":"WinningCheckers",
+		"commentator":"Amina 69",
+		"public_subscriber":"No",
+		"comment":"New subscriber",
+		"reply_replies":"Thank you! Please recommend our channel to fellow checkers enthusiasts.|@WinningCheckers ok",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 56"
+	},
+	{
+		"comment_id":27,
+		"channel_name":"WinningCheckers",
+		"commentator":"Ayoub ayoub",
+		"public_subscriber":"Yes",
+		"comment":"New subsicribe",
+		"reply_replies":"Thank you!|@WinningCheckers you're welcome",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 56"
+	},
+	{
+		"comment_id":28,
+		"channel_name":"WinningCheckers",
+		"commentator":"Ayoub ayoub",
+		"public_subscriber":"Yes",
+		"comment":"Clap, clap, thumbs up",
+		"reply_replies":"Thank you. Please recommend our channel to fellow checkers enthusiasts.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 44"
+	},
+	{
+		"comment_id":29,
+		"channel_name":"WinningCheckers",
+		"commentator":"Elf club",
+		"public_subscriber":"No",
+		"comment":"Ok",
+		"reply_replies":"Thank you. Please recommend our channel to fellow checkers enthusiasts.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"How to play checkers and win 90% of the time."
+	},
+	{
+		"comment_id":30,
+		"channel_name":"WinningCheckers",
+		"commentator":"Ayoub ayoub",
+		"public_subscriber":"Yes",
+		"comment":"Thumbs up,Thumbs up",
+		"reply_replies":"1 Like|Thank You",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 58"
+	},
+	{
+		"comment_id":31,
+		"channel_name":"WinningCheckers",
+		"commentator":"Amin Amin",
+		"public_subscriber":"No",
+		"comment":"Clap, clap",
+		"reply_replies":"Thank you",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 58"
+	},
+	{
+		"comment_id":32,
+		"channel_name":"WinningCheckers",
+		"commentator":"Remzzy boi",
+		"public_subscriber":"No",
+		"comment":"Its nice to see you upload your losses aswell, showes youre also just human, btw. I like your voice, also can you analyze the game in video form?",
+		"reply_replies":"Yes. That's why I can't play! Lol. What do you mean, analyse the game in video form?",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 58"
+	},
+	{
+		"comment_id":33,
+		"channel_name":"WinningCheckers",
+		"commentator":"General Videos",
+		"public_subscriber":"No",
+		"comment":"Hello there I have subscribed your channel, your whatsapp number plz",
+		"reply_replies":"Thank you for subscribing. Unfortenately I don't have a whatapp number.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"How to play checkers and win 90% of the time."
+	},
+	{
+		"comment_id":34,
+		"channel_name":"WinningCheckers",
+		"commentator":"Ayoub ayoub",
+		"public_subscriber":"Yes",
+		"comment":"Thumbs up,Thumbs up, Clap, Clap",
+		"reply_replies":"Thank you!",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 59"
+	},
+	{
+		"comment_id":35,
+		"channel_name":"WinningCheckers",
+		"commentator":"Farok Aj",
+		"public_subscriber":"No",
+		"comment":"6:08 You could do three shot by given him the checker beside the single corner .",
+		"reply_replies":"1 like| I missed that one! Thank you for pointing it out to me. It's the classic In & Out shot!",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 59"
+	},
+	{
+		"comment_id":36,
+		"channel_name":"WinningCheckers",
+		"commentator":"ARSHAD SATTI",
+		"public_subscriber":"Yes",
+		"comment":"Hello bro",
+		"reply_replies":"Hello, how are you?",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"How to play checkers and win 90% of the time."
+	},
+	{
+		"comment_id":37,
+		"channel_name":"WinningCheckers",
+		"commentator":"Amin Amin",
+		"public_subscriber":"No",
+		"comment":"Thumbs up",
+		"reply_replies":"Thank you!|@WinningCheckers you're welcome",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 60"
+	},
+	{
+		"comment_id":38,
+		"channel_name":"WinningCheckers",
+		"commentator":"Ayoub ayoub",
+		"public_subscriber":"Yes",
+		"comment":"Clap, clap",
+		"reply_replies":"Thank you!|@WinningCheckers you're welcome",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 60"
+	},
+	{
+		"comment_id":39,
+		"channel_name":"WinningCheckers",
+		"commentator":"Amina 69",
+		"public_subscriber":"No",
+		"comment":"Thumbs up, thumbs up",
+		"reply_replies":"1 like|Thank you!|1 like",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 60"
+	},
+	{
+		"comment_id":40,
+		"channel_name":"WinningCheckers",
+		"commentator":"Marcus Banks",
+		"public_subscriber":"No",
+		"comment":"Great game",
+		"reply_replies":"Heart| Thank you. Our subscribers are using our videos to beat me!",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 63"
+	},
+	{
+		"comment_id":41,
+		"channel_name":"WinningCheckers",
+		"commentator":"Ayoub ayoub",
+		"public_subscriber":"No",
+		"comment":"Thumbs up, thumbs up",
+		"reply_replies":"Heart| Thank you.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 63"
+	},
+	{
+		"comment_id":42,
+		"channel_name":"WinningCheckers",
+		"commentator":"Amin Amin",
+		"public_subscriber":"No",
+		"comment":"Clap, clap",
+		"reply_replies":"Heart| Thank you.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 63"
+	},
+	{
+		"comment_id":43,
+		"channel_name":"WinningCheckers",
+		"commentator":"Bouch Ra",
+		"public_subscriber":"No",
+		"comment":"Wave,thumbs up, clap",
+		"reply_replies":"Heart| Thank you.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 63"
+	},
+	{
+		"comment_id":44,
+		"channel_name":"WinningCheckers",
+		"commentator":"Mer yem",
+		"public_subscriber":"No",
+		"comment":"Thumbs up, thumbs up",
+		"reply_replies":"Like|Thank you",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 64"
+	},
+	{
+		"comment_id":45,
+		"channel_name":"WinningCheckers",
+		"commentator":"Greg Nixon",
+		"public_subscriber":"No",
+		"comment":"Wonderful video. I like your playing strategy and explanations.",
+		"reply_replies":"Thank you.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"How to play checkers and win 90% of the time."
+	},
+	{
+		"comment_id":46,
+		"channel_name":"WinningCheckers",
+		"commentator":"General Videos",
+		"public_subscriber":"No",
+		"comment":"Thanks alot sir for  this video,  you highlighted my mistakes,  and surely I am not going to repeat these in future. Your efforts encourage and help us to perform well THANK YOU SO MUCH ☺ ☺",
+		"reply_replies":"My pleasure. I am glad this video helped you.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 66"
+	},	
+	{
+		"comment_id":47,
+		"channel_name":"WinningCheckers",
+		"commentator":"Min Thant Si Thu",
+		"public_subscriber":"Yes",
+		"comment":"Hi",
+		"reply_replies":"Hello, hope you are winning more games.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 66"
+	},
+	{
+		"comment_id":48,
+		"channel_name":"WinningCheckers",
+		"commentator":"Min Thant Si Thu",
+		"public_subscriber":"Yes",
+		"comment":"Bro, I know you from checkers app my username is robloxplayer20.I am your fan",
+		"reply_replies":"Thank you! Please visit again and let me know if I can do anything for you in future videos.|@WinningCheckers Can you teach me how to play checkers?",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 66"
+	},
+	{
+		"comment_id":49,
+		"channel_name":"WinningCheckers",
+		"commentator":"Austin Divinagracia",
+		"public_subscriber":"No",
+		"comment":"Hi this is the dude that quit earlier, it was a good game even if I didn't have a chance",
+		"reply_replies":"Never quit! you never know I do make mistakes.|@WinningCheckers I was the one that asked if you were promoting your channel hahahaha",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 66"
+	},
+	{
+		"comment_id":50,
+		"channel_name":"WinningCheckers",
+		"commentator":"Gopalji Sharma",
+		"public_subscriber":"Yes",
+		"comment":"Thanks. ..Heart with Bow SG",
+		"reply_replies":"Welcome",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"How to play checkers and win 90% of the time."
+	},
+	{
+		"comment_id":51,
+		"channel_name":"WinningCheckers",
+		"commentator":"Okoye Peculiar",
+		"public_subscriber":"No",
+		"comment":"Awesome ..Thumbs up",
+		"reply_replies":"Thank you! Cheers!",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 67"
+	},
+	{
+		"comment_id":52,
+		"channel_name":"WinningCheckers",
+		"commentator":"Clinton Nello",
+		"public_subscriber":"No",
+		"comment":"Good game with you bro, looking forward to another one",
+		"reply_replies":"Anytime. Just give me notice if you want me to record a game to post.",
+		"channel_owner_replied":"Yes",
+		"related_video_channel":"Live Checkers game 68"
 	}
 ]

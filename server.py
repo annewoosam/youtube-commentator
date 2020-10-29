@@ -1,4 +1,4 @@
-"""Server for youtube_YourModelNameLowerCaseSingularStats app."""
+"""Server for youtube_comments app."""
 
 # increased flask
 
@@ -10,7 +10,7 @@ db = SQLAlchemy()
 
 # created import allowing connection to database
 
-from model import connect_to_db, YourModelNameTitleCaseSingularStats, db
+from model import connect_to_db, Comment, db
 
 app = Flask(__name__)
 
@@ -25,21 +25,25 @@ import crud
 
 @app.route('/')
 
-def all_YourModelNameLowerCasePluralStats():
+def all_comments():
 
-    stats=crud.get_YourModelNameLowerCasePlural()
+    stats=crud.get_comments()
     
-    YourVariableName=[q[0] for q in db.session.query(YourModelNameInTitleCaseHere.YourVariableName).all()]
+    channel_id=[q[0] for q in db.session.query(Comments.channel_id).all()]
 
-    YourNextVariableName=[q[0] for q in db.session.query(YourModelNameInTitleCaseHere.YourNextVariableName).all()]
-     
-    #repeat till next to last variable accounted for
+    channel_name=[q[0] for q in db.session.query(Comments.channel_name).all()]
+
+    video_number=[q[0] for q in db.session.query(Comments.video_number).all()]
+
+    commentator=[q[0] for q in db.session.query(Comments.commentator).all()]
+
+    commentary=[q[0] for q in db.session.query(Comments.commentary).all()]
+
+    date=[q[0] for q in db.session.query(Comments.date).all()]
       
-    YourLastVariableName=[q[0] for q in db.session.query(YourModelNameInTitleCaseHere.YourLastVariableName).all()]
+    replied_to=[q[0] for q in db.session.query(Comments.replied_to).all()]
     
-    # repeat through all columns needed
-
-    return render_template('YourModelNameLowerCasePlural.html', YourVariable_Name=YourVariable_Name, YourNextVariableName=YourNextVariableName, YourLastVariableName=YourLastVariableName)
+    return render_template('comments.html', channel_id=channel_id, channel_name=channel_name, video_number=video_number, commentator=commentator, commentary=commentary, date=date, replied-to=replied_to)
 
 if __name__ == '__main__':
 
